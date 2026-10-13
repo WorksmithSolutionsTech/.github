@@ -7,9 +7,9 @@
 The invoice was raised. The stock was booked. The credit was claimed.<br/>
 Each record is individually right, and the money still leaves.
 
-[![Website](https://img.shields.io/badge/Website-worksmith.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.worksmith.tech/)
-[![Email](https://img.shields.io/badge/Email-contact%40worksmith.tech-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@worksmith.tech)
-[![Location](https://img.shields.io/badge/Hyderabad-India-111111?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.worksmith.tech/)
+[![Website](https://img.shields.io/badge/Website-worksmith.tech-E8673A?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1F1F1F)](https://www.worksmith.tech/)
+[![Email](https://img.shields.io/badge/Email-contact%40worksmith.tech-E8673A?style=flat-square&logo=gmail&logoColor=white&labelColor=1F1F1F)](mailto:contact@worksmith.tech)
+[![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-E8673A?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1F1F1F)](https://www.worksmith.tech/)
 
 </div>
 
